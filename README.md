@@ -73,7 +73,6 @@
 
 ![Teacher Dashboard](screenshots/teacher-dashboard.png)
 
-> **📌 Catatan:** Buat folder `screenshots/` di root project dan tambahkan screenshot aplikasi Anda. Anda bisa mengambil screenshot dari browser dan menyimpannya sesuai nama file di atas.
 
 ---
 
